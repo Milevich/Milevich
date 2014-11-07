@@ -1,3 +1,3 @@
 Milevich
 ========
-dfgf; :df
+$ git init
